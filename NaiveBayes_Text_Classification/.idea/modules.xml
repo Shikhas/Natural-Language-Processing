@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ML-HW-2/.idea/ML-HW-2.iml" filepath="$PROJECT_DIR$/../ML-HW-2/.idea/ML-HW-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NaiveBayes_Text_Classification.iml" filepath="$PROJECT_DIR$/.idea/NaiveBayes_Text_Classification.iml" />
+    </modules>
+  </component>
+</project>
